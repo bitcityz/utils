@@ -16,7 +16,7 @@
 				"currencyPair": "BUSD",
 				"address": "TBA",
 				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-                "accessType": "Citizen pass-ticket",
+                "accessType": 0,
 				"logo": {
 					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
 					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
@@ -39,7 +39,7 @@
 				"currencyPair": "BUSD",
 				"address": "TBA",
 				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-                "accessType": "Citizen pass-ticket",
+                "accessType": 0,
 				"logo": {
 					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
 					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
@@ -62,7 +62,7 @@
 				"currencyPair": "BUSD",
 				"address": "TBA",
 				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-                "accessType": "Citizen pass-ticket",
+                "accessType": 0,
 				"logo": {
 					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
 					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
@@ -85,7 +85,7 @@
 				"currencyPair": "BUSD",
 				"address": "TBA",
 				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-                "accessType": "Citizen pass-ticket",
+                "accessType": 0,
 				"logo": {
 					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
 					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
@@ -108,7 +108,7 @@
 				"currencyPair": "BUSD",
 				"address": "TBA",
 				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-                "accessType": "Citizen pass-ticket",
+                "accessType": 0,
 				"logo": {
 					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
 					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
@@ -131,7 +131,7 @@
 				"currencyPair": "BUSD",
 				"address": "TBA",
 				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-                "accessType": "Citizen pass-ticket",
+                "accessType": 0,
 				"logo": {
 					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
 					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
