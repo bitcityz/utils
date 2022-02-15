@@ -1,172 +1,136 @@
 {
 	"pools": [
 		{
-			"0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 0,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
-				},
-				"delFlg": true
-			}
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"id": 0,
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 76500000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"accessType": "Citizen pass-ticket",
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
+			},
+			"delFlg": true
 		},
 		{
-			"0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 1,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
-				},
-				"delFlg": true
-			}
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"id": 0,
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 76500000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"accessType": "Citizen pass-ticket",
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
+			},
+			"delFlg": true
 		},
 		{
-			"0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 2,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
-				},
-				"delFlg": true
-			}
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"id": 0,
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 76500000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"accessType": "Citizen pass-ticket",
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
+			},
+			"delFlg": true
 		},
 		{
-			"0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 3,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
-				},
-				"delFlg": true
-			}
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"id": 0,
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 76500000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"accessType": "Citizen pass-ticket",
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
+			},
+			"delFlg": true
 		},
 		{
-			"0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 4,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
-				},
-				"delFlg": true
-			}
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"id": 0,
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 76500000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"accessType": "Citizen pass-ticket",
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
+			},
+			"delFlg": true
 		},
 		{
-			"0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 5,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
-				},
-				"delFlg": true
-			}
-		},
-		{
-			"0xE90CABC44faE173881879BFD87A736BA0bE31305": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 6,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xeaDb0801Cfa7425febC1f7a42D883b3FDC63816b.svg"
-				},
-				"delFlg": false
-			}
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"id": 0,
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 76500000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "0xE90CABC44faE173881879BFD87A736BA0bE31305",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"accessType": "Citizen pass-ticket",
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg"
+			},
+			"delFlg": false
 		}
 	]
 }
