@@ -1,26 +1,24 @@
 {
 	"pools": [
 		{
-			"0xE90CABC44faE173881879BFD87A736BA0bE31305": {
-				"website": "bitcityz.com",
-				"telegram": "https://t.me/BitCityZSocial",
-				"twitter": "https://twitter.com/BitCityZ_social",
-				"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
-				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
-				"id": 6,
-				"name": "BitCityZ",
-				"symbol": "BCTZ",
-				"totalSupply": 76500000,
-				"decimals": "18",
-				"price": 0.15,
-				"currencyPair": "BUSD",
-				"address": "TBA",
-				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
-				"accessType": "Citizen pass-ticket",
-				"logo": {
-					"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg",
-					"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg"
-				}
+			"website": "bitcityz.com",
+			"telegram": "https://t.me/BitCityZSocial",
+			"twitter": "https://twitter.com/BitCityZ_social",
+			"shortDescription": "Welcome to the Decentralized SocialFi Network for Crypto Lovers",
+			"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
+			"id": 6,
+			"name": "BitCityZ",
+			"symbol": "BCTZ",
+			"totalSupply": 76500000,
+			"decimals": "18",
+			"price": 0.15,
+			"currencyPair": "BUSD",
+			"address": "0xE90CABC44faE173881879BFD87A736BA0bE31305",
+			"claimPolicy": "Unlock 50% TGE. 1 month cliff",
+			"accessType": "Citizen pass-ticket",
+			"logo": {
+				"large": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/large/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg",
+				"small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg"
 			}
 		}
 	]
