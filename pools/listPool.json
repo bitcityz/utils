@@ -11,11 +11,11 @@
 				"description": "Introduction BitCityZ is a Decentralized SociaFi Network that aims to connect crypto lovers and experts. We provide infinite possibilities for crypto lovers to engage, connect and capture the value they produce through various monetization methods. BitcityZ cultivate the connection elements of cryptocurrency, culture, community and collaborative creativity.",
 				"name": "BitCityZ",
 				"symbol": "BCTZ",
-				"totalSupply": 76500000,
+				"totalSupply": 200000,
 				"decimals": "18",
 				"price": 0.15,
 				"currencyPair": "BUSD",
-				"address": "0xE90CABC44faE173881879BFD87A736BA0bE31305",
+				"address": "TBA",
 				"claimPolicy": "Unlock 50% TGE. 1 month cliff",
 				"accessType": "Citizen",
 				"logo": {
