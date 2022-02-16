@@ -12,6 +12,7 @@
 				"name": "BitCityZ",
 				"symbol": "BCTZ",
 				"totalSupply": 200000,
+				"swapAmount": 666666.67,
 				"decimals": "18",
 				"price": 0.15,
 				"currencyPair": "BUSD",
