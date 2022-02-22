@@ -102,7 +102,7 @@
                     "small": "https://raw.githubusercontent.com/bitcityz/utils/main/logo/small/0xE90CABC44faE173881879BFD87A736BA0bE31305.svg"
                 }
             },
-            "delFlg": false
+            "delFlg": true
         },
         {
             "id": 4,
